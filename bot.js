@@ -11,12 +11,3 @@ client.once("ready", () => {
 });
 
 client.login(process.env.DISCORD_TOKEN);
-
-client.on("message", gotMessage);
-
-function gotMessage(msg) {
-  console.log(msg.content);
-  if (msg.content === "tetas") {
-    msg.reply("si, tetas");
-  }
-}
