@@ -1,3 +1,3 @@
 # trolleopardcat
-discord bot
-update al trollobot
+discord.js bot!!!
+## Sucesor del Famoso trollobot!
